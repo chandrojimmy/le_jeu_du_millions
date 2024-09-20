@@ -1,6 +1,6 @@
 <?php
 
-namespace Chandro\Jeu20\Entity;
+namespace Chandro\Entity;
 Use DateTimeImmutable;
 class Answer
 {
